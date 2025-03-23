@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057709357591",
+    "project_id": "sunuprojet-fd227",
+    "storage_bucket": "sunuprojet-fd227.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057709357591:android:67d4053bea0cf05d97ba52",
+        "android_client_info": {
+          "package_name": "com.example.gessk_master_prg19_examen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1ov3PNCqgx4AhI0qUFWaW72FFoJQQ6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
